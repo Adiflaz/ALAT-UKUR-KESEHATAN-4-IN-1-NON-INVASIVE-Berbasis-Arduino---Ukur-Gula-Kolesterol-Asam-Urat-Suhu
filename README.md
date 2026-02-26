@@ -5,21 +5,21 @@ Berbasis Arduino - Ukur Gula, Kolesterol, Asam Urat, Suhu
 
 
 DAFTAR ISI
+
+1. FITUR LENGKAP 
+2. SPESIFIKASI TEKNIS 
+3. DAFTAR KOMPONEN & BIAYA 
+4. SKEMA RANGKAIAN 
+5. CARA PERAKITAN 
+6. CARA PENGGUNAAN 
+7. CARA KALIBRASI 
+8. TROUBLESHOOTING 
+9. SPESIFIKASI HASIL PENGUKURAN 
+10. KESIMPULAN 
+
+
+
 ===============================================================
-1. FITUR LENGKAP ...................................... HAL 2
-2. SPESIFIKASI TEKNIS ................................. HAL 3
-3. DAFTAR KOMPONEN & BIAYA ............................ HAL 4
-4. SKEMA RANGKAIAN .................................... HAL 5
-5. CARA PERAKITAN ..................................... HAL 7
-6. CARA PENGGUNAAN ..................................... HAL 9
-7. CARA KALIBRASI ..................................... HAL 12
-8. TROUBLESHOOTING .................................... HAL 14
-9. SPESIFIKASI HASIL PENGUKURAN ....................... HAL 15
-10. KESIMPULAN ........................................ HAL 16
-===============================================================
-
-
-
 1. FITUR LENGKAP
 ===============================================================
 
