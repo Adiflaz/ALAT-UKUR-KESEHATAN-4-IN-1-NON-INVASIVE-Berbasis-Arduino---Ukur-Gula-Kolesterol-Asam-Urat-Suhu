@@ -1,0 +1,2 @@
+# ALAT-UKUR-KESEHATAN-4-IN-1-NON-INVASIVE-Berbasis-Arduino---Ukur-Gula-Kolesterol-Asam-Urat-Suhu
+Alat Ukur Kesehatan 4-in-1 Non-Invasive berbasis Arduino. Mengukur Gula Darah (GDS/GDP), Kolesterol, Asam Urat (Pria/Wanita), dan Suhu Tubuh tanpa jarum. Menggunakan sensor optik BPW34, LED IR 940nm, Merah 660nm, Hijau 525nm, serta DS18B20. Dilengkapi LCD 20x4, kalibrasi mandiri dengan input nilai, penyimpanan EEPROM, dan baterai 18650 portabel.
